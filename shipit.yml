@@ -1,0 +1,4 @@
+deploy:
+  override:
+    - rake build
+    - package_cloud push shopify/prodeng-gems pkg/ruby-junos-ez-stdlib-*.gem
