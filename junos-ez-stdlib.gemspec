@@ -3,7 +3,7 @@ require 'rake'
 require 'junos-ez/version'
 
 Gem::Specification.new do |s|
-  s.name = 'junos-ez-stdlib'
+  s.name = 'shopify-junos-ez-stdlib'
   s.version = Junos::Ez::VERSION
   s.summary = "Junos EZ Framework - Standard Libraries"
   s.description = "Automation Framework for Junos/NETCONF:  Facts, Providers, and Utils"
