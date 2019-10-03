@@ -1,0 +1,6 @@
+# This file is for shopify internal development, feel free to ignore.
+name: ruby-junos-ez-stdlib
+
+up:
+  - ruby: 2.5.3
+  - bundler
