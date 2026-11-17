@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 [![Gem Version](https://badge.fury.io/rb/junos-ez-stdlib.svg)](https://badge.fury.io/rb/junos-ez-stdlib)[![Dependency Status](https://gemnasium.com/badges/github.com/Juniper/ruby-junos-ez-stdlib.svg)](https://gemnasium.com/github.com/Juniper/ruby-junos-ez-stdlib)
 [![Build Status](https://travis-ci.org/Juniper/ruby-junos-ez-stdlib.svg?branch=master)](https://travis-ci.org/Juniper/ruby-junos-ez-stdlib)
 
